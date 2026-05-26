@@ -197,7 +197,7 @@ export default function Home() {
               </div>
             </div>
             <div className="order-1 md:order-2 relative h-48 sm:h-64 md:h-80 lg:h-96">
-              <img src="https://images.pexels.com/photos/3962285/pexels-photo-3962285.jpeg" alt="Hero" className="w-full h-full object-cover rounded-lg" />
+              <img src="./woman-shopping-vegetables-supermarket.jpg" alt="Hero" className="w-full h-full object-cover rounded-lg" />
               <div className="absolute -top-2 -right-2 md:-top-4 md:-right-4 bg-orange-400 text-white p-2 md:p-4 rounded-full shadow-lg">
                 <div className="flex items-center gap-1 md:gap-2"><Percent size={16} className="md:w-6 md:h-6" /><span className="text-sm md:text-2xl font-bold">-30%</span></div>
               </div>
